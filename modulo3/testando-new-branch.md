@@ -7,4 +7,4 @@
 - Commitando
 - git push
 - conecta o upstream
-### Obs: toda alteração feita na nova branch ficará visivel apenas nela até que faça o merge para a main
+### Obs: toda alteração feita na nova branch ficará visivel apenas nela até que faça o merge para a main ou uma pull request
